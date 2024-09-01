@@ -18,6 +18,8 @@ public class FirstProgram {
         a = b;
         System.out.println(a);
         System.out.println("Hello my name is akeel shafi");
+        String name ="Akeel shafi";
+        System.out.println(name);
 
 
     }
