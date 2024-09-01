@@ -15,6 +15,9 @@ public class FirstProgram {
         System.out.println(b);
         a = 50;
         System.out.println(a);
+        a = b;
+        System.out.println(a);
+
 
     }
 }
