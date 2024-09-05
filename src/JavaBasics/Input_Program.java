@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Input_Program {
     public static void main(String[] args){
+        // SUM OF A AND B USING INPUT FROM THE USER
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the  value  of A");
