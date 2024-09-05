@@ -12,6 +12,9 @@ public class varaible {
         int i =  300; // Takes 4 bytes
         System.out.println(i);
 
+        float f = 200.7f; // Takes 4 bytes
+        System.out.println(f);
+
 
 
 
