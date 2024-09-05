@@ -9,6 +9,10 @@ public class varaible {
         short s = 20; // Takes 2 bytes
         System.out.println(s);
 
+        int i =  300; // Takes 4 bytes
+        System.out.println(i);
+
+
 
 
 
