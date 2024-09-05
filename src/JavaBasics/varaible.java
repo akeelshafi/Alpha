@@ -6,6 +6,11 @@ public class varaible {
         byte b = 20;// Takes 1 byte
         System.out.println(b);
 
+        short s = 20; // Takes 2 bytes
+        System.out.println(s);
+
+
+
 
 
 
