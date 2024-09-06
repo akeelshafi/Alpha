@@ -12,6 +12,6 @@ public class Multiple_DataTypes {
         double result = (f*b)+( i%c)-(d*s);
         System.out.println(result);
 
-        int $ =24;
+       // int $ =24;
     }
 }
