@@ -7,8 +7,7 @@ public class Type_Conversion {
         int number2= (int)number;
         System.out.println(number2);
 
-        char  character = 'a';
-        int num = character;
+        int num = 'a';
         System.out.println(num);
         int num3 = 'b';
         System.out.println(num3);
