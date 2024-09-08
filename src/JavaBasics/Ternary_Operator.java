@@ -9,8 +9,8 @@ public class Ternary_Operator {
         System.out.println(type);
         */
 
-        int marks = 20;
+       /* int marks = 20;
         String result = marks>=33? "Pass":"fail";
-        System.out.println(result);
+        System.out.println(result);*/
     }
 }
