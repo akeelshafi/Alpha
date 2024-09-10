@@ -11,7 +11,7 @@ public class Loops_Questions {
 
        /* Question 2 : Write a program that reads a set of integers, and then prints the sum of the
         even and odd integers.*/
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the value of A: ");
         int a = sc.nextInt();
@@ -23,7 +23,7 @@ public class Loops_Questions {
             System.out.println("sum of even numbers: "+ sum);
         }else {
             System.out.println("sum of odd numbers: "+ sum);
-        }
+        }*/
 
        /* Scanner sc = new Scanner(System.in);
         int number;
@@ -43,6 +43,12 @@ public class Loops_Questions {
         } while(choice==1);
         System.out.println("Sum of even numbers: " + evenSum);
         System.out.println("Sum of odd numbers: " + oddSum);
+
+
+        Question 3 : Write a program to find the factorial of any number entered by the user.
 */
+        for(int i = 0; i <= 5; i++ ) {
+            System.out.println("i = " + i );
+        }
     }
 }
