@@ -47,8 +47,19 @@ public class Loops_Questions {
 
         Question 3 : Write a program to find the factorial of any number entered by the user.
 */
-        for(int i = 0; i <= 5; i++ ) {
+      /*  for(int i = 0; i <= 5; i++ ) {
             System.out.println("i = " + i );
+        }*/
+
+      /*  Question 4 : Write a program to print the multiplication table of a number N, entered by the
+        user.*/
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter the number: ");
+        int a = sc.nextInt();
+        for (int i=1;i<=10;i++){
+            System.out.println(a+" X "+i+" = "+i*a);
         }
     }
 }
