@@ -12,6 +12,6 @@ public class Factorial_Of_N {
     }
 
     public static void main(String[] args){
-        System.out.println("Factorial of n is: " +factorial(4));
+        System.out.println( factorial(4));
     }
 }
