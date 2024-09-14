@@ -20,6 +20,11 @@ public class Function_Overloading_Using_Data_Types {
         System.out.println("Sum of integer value is: "+sum(10,20));
         System.out.println("Sum of floating value is: "+ sum(10.0f,20.0f));
         System.out.println("Sum of double value is: "+ sum(10,20));
+        function();
+
+    }
+    public static void function(){
+        System.out.println("this is an normal function");
 
     }
 }
