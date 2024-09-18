@@ -16,6 +16,7 @@ public class Is_Even {
         method.*/
 
         int isEven = isEven(10);
+        System.out.println("today i do nothing ");
 
     }
 }
