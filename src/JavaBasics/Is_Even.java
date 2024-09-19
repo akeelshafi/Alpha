@@ -19,6 +19,7 @@ public class Is_Even {
         System.out.println("today i do nothing ");
         System.out.println("this is the another thing where  i  do nothing");
         System.out.println("this is  the another thing where  i do nothing");
+        System.out.println("another day doing nothing");
 
     }
 }
